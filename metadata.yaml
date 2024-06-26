@@ -1,0 +1,38 @@
+_repo: The-long-arm-of-the-Mounted_73900
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Caswell, Edward C.
+    alias: Caswell, E. C. (Edward C.)
+    birthdate: 1879
+    deathdate: 1963
+    gutenberg_agent_id: '31826'
+    url: http://www.gutenberg.org/2009/agents/31826
+creator:
+  author:
+    agent_name: Dorrance, James French
+    birthdate: 1879
+    deathdate: 1961
+    gutenberg_agent_id: '37918'
+    url: http://www.gutenberg.org/2009/agents/37918
+description: Frontispiece illustration missing.
+gutenberg_issued: '2024-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73900'
+language: en
+pgterms:marc905: 20240612165319dorrance
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: '  $aNew York :$bThe Macaulay Company, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Royal Canadian Mounted Police -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The long arm of the Mounted
+url: http://www.gutenberg.org/ebooks/73900
