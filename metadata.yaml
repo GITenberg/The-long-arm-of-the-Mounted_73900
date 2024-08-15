@@ -8,6 +8,9 @@ contributor:
     deathdate: 1963
     gutenberg_agent_id: '31826'
     url: http://www.gutenberg.org/2009/agents/31826
+covers:
+- cover_type: archival
+  image_path: 73900-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Dorrance, James French
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '37918'
     url: http://www.gutenberg.org/2009/agents/37918
 description: Frontispiece illustration missing.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73900#The-long-arm-of-the-Mounted
 gutenberg_issued: '2024-06-23'
 gutenberg_type: Text
 identifiers:
